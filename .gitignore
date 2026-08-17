@@ -1,0 +1,21 @@
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de teste e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+.env
+*.secret

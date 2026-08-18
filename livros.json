@@ -1,0 +1,30 @@
+[
+  {
+    "titulo": "Biblia Sagrada",
+    "autor": "Deus",
+    "isbn": "0000",
+    "disponivel": true,
+    "emprestado_para": null
+  },
+  {
+    "titulo": "Psicose",
+    "autor": "Robert Bloch",
+    "isbn": "0001",
+    "disponivel": true,
+    "emprestado_para": null
+  },
+  {
+    "titulo": "Noites Brancas",
+    "autor": "Dostoiévski",
+    "isbn": "0034",
+    "disponivel": true,
+    "emprestado_para": null
+  },
+  {
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine",
+    "isbn": "9786559801367",
+    "disponivel": false,
+    "emprestado_para": "Rafael"
+  }
+]

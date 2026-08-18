@@ -1,0 +1,19 @@
+[
+  {
+    "nome": "Rafael",
+    "email": "rafael@gmail.com",
+    "livros_emprestados": [
+      "9786559801367"
+    ]
+  },
+  {
+    "nome": "João Cesar",
+    "email": "jc123@gmail.com",
+    "livros_emprestados": []
+  },
+  {
+    "nome": "Livia",
+    "email": "livia@gmail.com",
+    "livros_emprestados": []
+  }
+]
